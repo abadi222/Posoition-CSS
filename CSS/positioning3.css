@@ -1,0 +1,33 @@
+#one{
+    position: absolute;
+    border: solid;
+    width: 300px;
+    height: 20vh;
+  
+}
+#two{
+    position: absolute;
+    border: solid;
+    width: 250px;
+    height: 25vh;
+    top: 10%;
+    left: 10%;
+    
+
+}
+#three{
+    position: absolute;
+    border: solid;
+    width: 600px;
+    height: 15vh;
+    top: 27%;
+
+}
+#four{
+    position: absolute;
+    border: solid;
+    width: 150px;
+    height: 50vh;
+    left: 25%;
+
+}
